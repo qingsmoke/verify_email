@@ -16,7 +16,7 @@ pip install dnspython colorama
 使用命令：
 python verify_email.py 1.txt
 
-![image-20240316214136389](C:\Users\刺客\AppData\Roaming\Typora\typora-user-images\image-20240316214136389.png)
+![image-20240316214136389](https://github.com/qingsmoke/verify_email/blob/main/image-20240316214136389.png)
 
 ## ⏰个人想说的话
 
